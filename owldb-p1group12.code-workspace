@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "owldb-p1group12",
+			"path": "."
+		},
+		{
+			"name": "data",
+			"path": "../../Downloads/schema exampels/data"
+		},
+		{
+			"name": "schemas",
+			"path": "../../Downloads/schema exampels/schemas"
+		}
+	],
+	"settings": {}
+}
